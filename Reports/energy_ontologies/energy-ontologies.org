@@ -1,0 +1,61 @@
+* A Survey of Energy-related Ontologies
+
+** BONZAI Ontology
+** OPTIMUS Ontology
+** Urban Energy Ontology
+*** Pros:
+- First link for Google search: "energy ontology"
+- Defined in OWL
+*** Cons:
+- Every single link to the OWL is broken
+- Will have to email someone to get the ontology
+** SynCity
+Appears to be a toolkit for modelling cities rather than an ontology per se.
+
+UES (urban energy systems, Imperial) ontology covers electricity and heat
+
+
+There's also the similar:
+STS (socio-technical-systems, Delft) ontology covers gas, natural gas
+
+** Ontologies for smart homes and energy management: an implementation-driven survey
+https://www.infona.pl/resource/bwmeta1.element.ieee-art-000006623319
+
+- ThinkHOME project (reuses the DogOnt ontology)
+- BONSAI ontology
+- CoBrA describes device features
+
+They end up basing their work on the combo of DogOnt and CoBrA
+
+* DogOnt: Ontology Modeling for Intelligent Domotic Environments
+http://elite.polito.it/ontologies/dogont.owl
+http://lov.okfn.org/dataset/lov/vocabs/dogont
+
+http://porto.polito.it/1838746/1/paper31_camera_ready.pdf
+http://link.springer.com/chapter/10.1007/978-3-540-88564-1_51
+
+Turin Polytechnic
+
+Provides house modelling and reasoning capabilities to the DOG (Domotic OSGi Gateway)
+
+Homepage link is dead
+
+5 main hierarchy trees:
+- building thing: modelling available things
+- building environment: modelling where things are located
+- state: stable configs that (controllable) things can assume
+- functionality: modelling what controllable things can do
+- domotic network component: modelling features peculiar of each domotic plant
+
+#+ATTR_LATEX: :width \textwidth :float t
+[[file:dogont.png]]
+
+* EHS Taxonomy
+Not as flexible as an ontology
+* DomoML
+Ontology for representing household environments.
+
+No state modelling.
+* SOUPA
+Too general, just to do with agents and security
+

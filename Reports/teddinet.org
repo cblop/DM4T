@@ -1,0 +1,97 @@
+* TEDDINET projects
+** (Build) TEDDI
+*** APAtSCHE
+    https://teddinet.org/buildteddi/apatsche-aging-population-attitudes-to-sensor-controlled-energy/
+    Dr Galloway, University of Strathclyde
+    stuart.galloway@strath.ac.uk
+    [[file:~/Documents/ApatSCHE][Data]]
+*** C-Tech
+    https://teddinet.org/buildteddi/ctech-creating-the-energy-for-change/
+    Dr Spence, University of Nottingham
+*** DEFACTO
+    https://teddinet.org/buildteddi/defacto-digital-energy-feedback-and-control-technology-optimisation/
+    Prof. Lomas, Loughborough University
+*** DANCER
+    https://teddinet.org/buildteddi/dancer-digital-agent-networking-for-customer-energy-reduction/
+    Prof. Russo, University of Essex
+*** ENLITEN
+    https://teddinet.org/buildteddi/enliten-energy-literacy-through-an-intelligent-home-energy-advisor/
+    Prof. Coley, University of Bath
+*** E-Viz
+    https://teddinet.org/buildteddi/eviz-energy-visualisation-for-carbon-reduction/
+    Dr Pahl and Dr De Wilde, University of Plymouth
+*** IDEAL
+    https://teddinet.org/buildteddi/ideal-intelligent-domestic-energy-advice-loop/
+    Dr Goddard, University of Edinburgh
+*** REFIT
+    https://teddinet.org/buildteddi/refit-personalised-retrofit-decision-support-tools-for-uk-homes-using-smart-home-technology/
+    Dr Firth, Loughborough University & Dr Stankovic, University of Strathclyde
+    [[file:~/Documents/refit][Data]]
+*** Smarter Households
+    https://teddinet.org/buildteddi/smarter-households-an-intelligent-digital-household-network-to-transform-low-carbon-lifestyles/
+    Dr Liu, Coventry University & Dr van der Horst, University of Edinburgh
+
+** TEDDI (long)
+*** ADEPT
+    https://teddinet.org/buildteddi/adept-advanced-dynamic-energy-pricing-and-tariffs/
+    Prof. Taylor, Brunel University & Dr Wallom, University of Oxford
+*** Building Management
+    https://teddinet.org/buildteddi/building-management-linking-energy-demand-distributed-conversion-and-storage-using-dynamic-modelling-and-a-pervasive-sensor-infrastructure/
+    Prof. Clarke, University of Strathclyde & Prof. Roskilly, Newcastle University
+*** DESIMAX
+    https://teddinet.org/buildteddi/desimax-multiscale-modelling-to-maximise-demand-side-management/
+    Prof. McGregor, University of Strathclyde, Prof. Rodden & Prof. McLaughlin, University of Edinburgh
+*** Intelligent Agents for Home Energy Management
+    https://teddinet.org/buildteddi/intelligent-agents-for-home-energy-management/
+    Dr Rogers, University of Southampton
+*** LEEDR
+    https://teddinet.org/buildteddi/leedr-low-effort-energy-demand-reduction/
+    Dr Buswell, Loughborough University
+*** MAD4NRG
+    https://teddinet.org/buildteddi/mad4nrg-taking-on-the-teenagers-using-adolescent-energy-to-reduce-energy-use/
+    Prof. Beale, University of Birmingham, Prof. Luckin, Institute of Education, Prof. Jones, Swansea University, Dr Read, University of Central Lancashire & Dr Little, Northumbria University
+*** REDUCE
+    https://teddinet.org/buildteddi/reduce-reshaping-energy-demand-of-users-by-communication-technology-and-economic-incentives/
+    Dr Imran, University of Surrey
+
+** TEDDI (2-year)
+*** C-AWARE
+    https://teddinet.org/buildteddi/c-aware-enabling-consumer-awareness-of-carbon-footprint-through-mobile-service-innovation/
+    Prof Ng, University of Exeter, Prof. McAuley, University of Nottingham & Prof. Leslie, University of Cambridge
+*** CURRENT
+    https://teddinet.org/buildteddi/current-understanding-and-managing-energy-use-in-future-networks/
+    Prof. Hutchison, Lancaster University
+*** Informing Energy Choices Using Ubiquitous Sensing
+    https://teddinet.org/buildteddi/iecus-informing-energy-choices-using-ubiquitous-sensing/
+    Dr Friday, Lancaster University
+*** LAMP POST
+    https://teddinet.org/buildteddi/lamp-post-robust-intelligent-lamp-post-ilp-sensor-networks-for-energy-efficient-transportation-systems/
+    Prof. Blythe, Newcastle University & Dr Nallanathan, King’s College London
+*** SYMPACT
+    https://teddinet.org/buildteddi/sympact-tools-for-assessing-the-systematic-impact-of-technology-deployments-on-energy-use-and-climate-emissions/
+    Dr Preist, University of Bristol
+*** Wi-be
+    https://teddinet.org/buildteddi/wi-be-reduction-of-energy-demand-in-buildings-through-optimal-use-of-wireless-behaviour-wi-be-informations-systems/
+    Prof. Shao, University of Reading
+
+** Non-Domestic
+*** Aperio
+    https://teddinet.org/projects/non-domestic/aperio/
+    Dr Patrick James, University of Southampton
+*** B-bem
+    https://teddinet.org/projects/non-domestic/b-bem/
+    Dr Ruchi Choudhary, University of Cambridge
+***  Enhance
+    https://teddinet.org/projects/non-domestic/data-driven/
+    Dr Nigel Goddard, University of Edinburgh
+*** Future FM
+    https://teddinet.org/projects/non-domestic/future-fm/
+    Professor John Polak, Imperial College London
+*** Pervasive Sensing
+    https://teddinet.org/projects/non-domestic/pervasive-sensing/
+    Professor Joseph Clarke, University of Strathclyde
+***  WICKED
+    https://teddinet.org/projects/non-domestic/wicked/
+    Professor Peter Grindrod, University of Oxford
+
+
