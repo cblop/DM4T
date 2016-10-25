@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="http://semanco-tools.eu/ontology-releases/eu/semanco/ontology/SUMO/0.1.0/SUMO-0.1.0.owl" uri="semanco.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://casas.wsu.edu/owl/cose.owl" uri="cose.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://elite.polito.it/ontologies/dogont.owl" uri="dog.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl" uri="bonsai.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://semanco-tools.eu/ontology-releases/eu/semanco/ontology/SEMANCO/SEMANCO.owl" uri="semanco.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://www.ifomis.org/bfo/1.1" uri="bfo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl" uri="dolce.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl" uri="dul.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1477054195005" name="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl" uri="energyresource.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://casas.wsu.edu/owl/cose.owl" uri="cose.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://elite.polito.it/ontologies/dogont.owl" uri="dog.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl" uri="bonsai.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://semanco-tools.eu/ontology-releases/eu/semanco/ontology/SEMANCO/SEMANCO.owl" uri="semanco.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://www.ifomis.org/bfo/1.1" uri="bfo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl" uri="dolce.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl" uri="dul.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntologySharedVocabulary.owl" uri="BuildingOntologySharedVocabulary.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="duplicate:https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl" uri="energyresource.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1477391328295" name="duplicate:https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl" uri="EnergyResourceOntology.owl"/>
     </group>
 </catalog>
