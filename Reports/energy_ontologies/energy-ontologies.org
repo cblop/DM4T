@@ -161,11 +161,22 @@ And devices:
 ** ThinkHome
 http://www.sciencedirect.com/science/article/pii/S0378778811005901
 
+High-level ontology diagram:
+
 [[file:thinkhome.png]]
+
+
+Just the Energy Resource Ontology:
 
 [[file:thinkhom2.png]]
 
+
+An example energy provider:
+
 [[file:thinkhome3.jpg]]
+
+
+Modelling state of a DVD recorder:
 
 [[file:thinkhome4.jpg]]
 
